@@ -1,0 +1,9 @@
+stroke(255,0,0);
+strokeWeight(10);
+rect(10,10,75,10);
+stroke(255,255,255);
+strokeWeight(10);
+rect(10,30,75,10);
+stroke(0,0,255);
+strokeWeight(10);
+rect(10,50,75,10);
